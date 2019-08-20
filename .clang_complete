@@ -15,7 +15,7 @@
 -IC:\Users\Oleg\.platformio\packages\toolchain-atmelavr\lib\gcc\avr\5.4.0\include-fixed
 -IC:\Users\Oleg\.platformio\packages\tool-unity
 -DPLATFORMIO=40000
--DARDUINO_AVR_NANO
+-DARDUINO_AVR_PRO
 -DF_CPU=16000000L
 -DARDUINO_ARCH_AVR
 -DARDUINO=10805
